@@ -1,12 +1,37 @@
-# Getting Started with Create React App
+# Product Listing Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple web application built with React.js for displaying a list of products. Users can filter and sort the products based on their attributes, and a pagination system is implemented to navigate through the product list.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Display a list of products with images, titles, descriptions, and prices.
+- Filter products by category.
+- Sort products by price.
+- User-friendly pagination system to navigate through the product list.
+- Responsive and visually appealing design.
+
+## Getting Started
+
+Follow these instructions to get the project up and running on your local machine.
+
+### Prerequisites
+
+- Node.js and npm installed on your computer.
+
+### Installation
+
+1. Clone the repository to your local machine:
+ ###  git clone https://github.com/yourusername/product-listing-app.git
+
+2. Change your working directory to the project folder:
+  ## cd product-listing-app   
+3. Install the project dependencies:
+ ## npm install
+ ## npm i styled-components
+  
 
 ### `npm start`
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
